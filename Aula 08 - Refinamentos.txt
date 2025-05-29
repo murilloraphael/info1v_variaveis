@@ -1,0 +1,119 @@
+ Q1 - Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+------------------ - Exercicios-------------------
+
+1- 
+ Q1 -Escreva um algoritmo que calcule a diferença de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença desses números;
+
+Q2 - Escreva um algoritmo que calcule a diferença de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a diferença deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a diferença de 'a' - 'b';
+    3. Mostre o resultado dessa diferença.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] - [b];
+    3. Mostre o resultado desse cálculo.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [Diferença] = [a] - [b];
+    3. Mostre [Diferença].
+------------------------------------------------------------------------------------------------------------------------------
+2- 
+ Q1 - Escreva um algoritmo que calcule o produto de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o produto desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a produto desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a multiplicação deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' * 'b';
+    3. Mostre o resultado desse produto.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] * [b];
+    3. Mostre o resultado desse cálculo.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [Produto] = [a] * [b];
+    3. Mostre [Produto].
+----------------------------------------------------------------------------------------------------------------------------------
+ Q1 -Escreva um algoritmo que calcule a divisão de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o quociente desses números;
+
+Q2 - Escreva um algoritmo que calcule a divisão de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o quociente desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', calcule a divisão deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' / 'b';
+    3. Mostre o resultado desse quociente.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o quociente de [a] / [b];
+    3. Mostre o resultado desse quociente.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [Quociente] = [a] / [b];
+    3. Mostre [Quociente].
