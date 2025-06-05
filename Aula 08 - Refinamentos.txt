@@ -30,18 +30,18 @@ Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a s
 ------------------ - Exercicios-------------------
 
 1- 
- Q1 -Escreva um algoritmo que calcule a diferença de dois números inteiros.
+ Q1 -Escreva um algoritmo que calcule a subtração de dois números inteiros.
 
     1. Ler ou pegar esses dois números;
     2. Calculo a diferença desses números;
 
-Q2 - Escreva um algoritmo que calcule a diferença de dois números inteiros e mostre o resultado.
+Q2 - Escreva um algoritmo que calcule a subtração de dois números inteiros e mostre o resultado.
 
     1. Ler ou pegar esses dois números;
     2. Calculo a diferença desses números;
     3. Mostro o resultado desse cálculo.
 
-Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a diferença deles e mostre o resultado.
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', calcule a subtração deles e mostre o resultado.
 
     1. Leia os números 'a' e 'b';
     2. Calcule a diferença de 'a' - 'b';
@@ -65,13 +65,13 @@ Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a d
     1. Ler ou pegar esses dois números;
     2. Calculo o produto desses números;
 
-Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+Q2 - Escreva um algoritmo que calcule a multiplicação de dois números inteiros e mostre o resultado.
 
     1. Ler ou pegar esses dois números;
     2. Calculo a produto desses números;
     3. Mostro o resultado desse cálculo.
 
-Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a multiplicação deles e mostre o resultado.
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', calcule a multiplicação deles e mostre o resultado.
 
     1. Leia os números 'a' e 'b';
     2. Calcule o produto de 'a' * 'b';
@@ -117,3 +117,4 @@ Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', calcule a 
     1. Leia os números [a] e [b];
     2. Calcule a [Quociente] = [a] / [b];
     3. Mostre [Quociente].
+
